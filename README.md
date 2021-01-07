@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8ee93078-95bf-4814-a5c3-51ef6f37dce7/deploy-status)](https://app.netlify.com/sites/iamenzoenzosign/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9e8682dd-d356-48bd-87e1-f250d9179b47/deploy-status)](https://app.netlify.com/sites/iamenzo/deploys)
 
 # Meghna Hugo Theme
 
