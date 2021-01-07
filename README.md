@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8ee93078-95bf-4814-a5c3-51ef6f37dce7/deploy-status)](https://app.netlify.com/sites/iamenzoenzosign/deploys)
+
 # Meghna Hugo Theme
 
 Meghna Hugo  is a one page professional Hugo website template and crafted with all the necessary elements and features. Apart from the exclusive appearance, the main features of Meghna are video embedding option in the homepage, about, portfolio, service, skills, works, team, testimonial, pricing, and blog sections
